@@ -1,0 +1,32 @@
+{
+  "name": "proxy-fluent",
+  "description": "A fluent ES6 proxy",
+  "version": "0.1.0",
+  "author": "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/ileri/proxy-fluent/issues"
+  },
+  "devDependencies": {
+    "babel": "^5.2.17",
+    "gulp": "^3.8.11",
+    "gulp-babel": "^5.1.0",
+    "gulp-replace": "^0.5.3",
+    "gulp-sourcemaps": "^1.5.2"
+  },
+  "homepage": "https://github.com/ileri/proxy-fluent",
+  "keywords": [
+    "es6",
+    "fluent",
+    "proxy"
+  ],
+  "license": "MIT",
+  "main": "dist/proxy-fluent.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ileri/proxy-fluent.git"
+  },
+  "scripts": {
+    "prepublish": "gulp build",
+    "test": "standard {test/,lib/,./}*.js"
+  }
+}

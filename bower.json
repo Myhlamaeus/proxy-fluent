@@ -1,0 +1,26 @@
+{
+  "name": "proxy-fluent",
+  "description": "A fluent ES6 proxy",
+  "version": "0.1.0",
+  "authors": [
+    "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>"
+  ],
+  "homepage": "https://github.com/ileri/proxy-fluent",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "proxy",
+    "fluent",
+    "es6"
+  ],
+  "license": "MIT",
+  "main": "proxy-fluent.js",
+  "moduleType": [
+    "es6"
+  ]
+}

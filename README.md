@@ -1,0 +1,2 @@
+# proxy-fluent [![Code Climate](https://codeclimate.com/github/ileri/proxy-fluent/badges/gpa.svg)](https://codeclimate.com/github/ileri/proxy-fluent) [![Build Status](https://travis-ci.org/ileri/proxy-fluent.svg)](https://travis-ci.org/ileri/proxy-fluent) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+> A fluent ES6 proxy
